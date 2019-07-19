@@ -7,5 +7,5 @@ Feature: Login Paypal
 
     Examples:
     | username            | password|
-    | abmobarak@yahoo.com |tttttt   |
+    | abmobarak@yahoo.com |xxxxxx   |
     | user2               |pass2    |
